@@ -1,4 +1,4 @@
-# TDS-HW-Code-Refactor
+# Horiseon-code-refactor
 
 My goal in this refactor:
     - Make the existing website more accessible by renaming div tags into something more accessible by screen readers
